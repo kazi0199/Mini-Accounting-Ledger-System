@@ -1,3 +1,22 @@
+Mini Account Ledger System built with Laravel. It record debit and credit transactions which is automatically updated.
+
+->Feature
+.create account(By database seeding)
+.Add debit or credit transaction
+.Automatically Update Acount Balance
+.As Output (Email Send).
+
+.Organize logic with Service class
+.Model(id,name,balance)
+.Transaction(account_id,type,Amount,Note)
+.Seperate Validation
+.Dynamic Table with Search,pagination
+
+Developer
+Name:kazi Siam
+Email: kazisiam0199@gmail.com
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
